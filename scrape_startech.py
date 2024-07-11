@@ -82,7 +82,8 @@ while url:
 # Save scraped data to a CSV file
 product_info = pd.DataFrame(products)
 product_info.to_csv(f"{file_name}.csv", index=False)
-print("Alhamdulillah Done")
+# print("Alhamdulillah Done")
+# input("Press Enter to exit")
 
 
 # In[ ]:
