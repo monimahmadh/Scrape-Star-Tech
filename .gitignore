@@ -1,0 +1,24 @@
+# Logs and temp files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build files
+build/
+dist/
+
+# Environment variables and credentials
+.env
+*.key
+*.pem
+
+# IDE settings
+.idea/
+.vscode/
